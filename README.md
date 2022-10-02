@@ -20,13 +20,13 @@ Your company has recently started on a project that aims to conduct a survey to 
 ### Screenshot
 
 <p align="center">
-<a href="https://sezginakgul.github.io/blue-car-rental-form/"><img src="blue.gif" alt="screenshot" width="100%"></a>
+<a href="https://ahmetyags.github.io/car-rental-form/"><img src="blue.gif" alt="screenshot" width="100%"></a>
 </p>
 
 
 ### Links
 
-- Live: [Live Website](https://sezginakgul.github.io/blue-car-rental-form/)
+- Live: [Live Website](https://ahmetyags.github.io/car-rental-form/)
 
 
 ### Built with
